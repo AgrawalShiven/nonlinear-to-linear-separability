@@ -2,7 +2,7 @@
 
 Transformation of non-linearly separable patterns or samples into linearly separable patterns.
 
-This notebook accompanies the author's Scopus-indexed paper "Transforming Non-Linearly Separable Data".
+This notebook accompanies the author's paper "Transforming Non-Linearly Separable Data", which was accepted at an IEEE conference.
 
 ## What the notebook does
 
